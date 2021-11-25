@@ -4,7 +4,7 @@ import './pages.css';
 const Contact = () => {
     return (
         <div className="page-container">
-            <h1>Sell page</h1>
+            <h1>Contact page</h1>
             <p>Testing this line</p>
         </div>
     )

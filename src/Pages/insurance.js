@@ -1,13 +1,12 @@
 import React from 'react';
 import './pages.css';
 
-const Buy = () => {
+const Insurance = () => {
     return (
         <div className='page-container'>
-            <h1>Buy page</h1>
-
+            <h1>Insurance Page</h1>
         </div>
-    );
+    )
 }
 
-export default Buy;
+export default Insurance
