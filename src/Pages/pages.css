@@ -1,7 +1,12 @@
 .page-container {
-    display: 'flex';
-    justify-content: 'center';
-    align-items: 'center';
-    height: '100vh';
-    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.house-image {
+    background-image: url("./../Media/house_img.jpg");
+    width: 100%;
+    height: 100vh;
 }
