@@ -13,6 +13,7 @@ const Buy = () => {
                     <input type='text' name='city' id='city' placeholder='City' required></input>
                     <input type='text' name='state' id='state' placeholder='State' required></input>
                     <input type='number' name='zip-code' id='zip-code' placeholder='Zip Code' required></input>
+                    <button type='submit' value='Submit'>Search</button>
                 </form>
             </div>
 
